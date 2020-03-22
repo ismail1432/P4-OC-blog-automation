@@ -1,0 +1,6 @@
+pelican
+markdown
+typogrify
+ghp-import
+fabric
+python-creole

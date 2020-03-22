@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/var/www/html/OC/4-oc-automatisez-la-publication","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
